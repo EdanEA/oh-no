@@ -1,0 +1,15 @@
+{
+  "name": "oh-no",
+  "version": "1.0.2",
+  "description": "A shit bot, for Kyle's shit server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EdanEA",
+  "license": "Unlicense",
+  "dependencies": {
+    "eris": "^0.10.1",
+    "moment": "^2.24.0"
+  }
+}
