@@ -1,6 +1,6 @@
 {
-  "name": "oh-no",
-  "version": "1.0.2",
+  "name": "react-bot",
+  "version": "1.0.3",
   "description": "A shit bot, for Kyle's shit server.",
   "main": "app.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "EdanEA",
   "license": "Unlicense",
   "dependencies": {
+    "dblapi.js": "^2.3.0",
     "eris": "^0.10.1",
     "moment": "^2.24.0"
   }

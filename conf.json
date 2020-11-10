@@ -1,6 +1,8 @@
 {
   "bot": {
-    "token": ""
+    "token": "",
+    "ownerID": ""
   },
-  "statuses": []
+  "statuses": [],
+  "keys": {}
 }
